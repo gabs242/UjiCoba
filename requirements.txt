@@ -4,3 +4,4 @@ tensorflow==2.13.0
 flask-cors
 keras==2.13.1
 scipy
+Pillow==10.1.0
